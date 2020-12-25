@@ -1,2 +1,5 @@
 # hello-world
-Refreshing my GitHub knowledge
+
+Hey Everyone!
+
+Mike here.
